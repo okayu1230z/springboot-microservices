@@ -1,0 +1,4 @@
+rootProject.name = "article-database"
+include("article-api")
+include("media-api")
+include("shared")
